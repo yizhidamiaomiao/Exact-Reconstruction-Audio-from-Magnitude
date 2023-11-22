@@ -1,1 +1,3 @@
 # Exact-Reconstruction-Audio-from-Magnitude
+
+Code of paper "EXACT ACOUSTIC SIGNAL RECONSTRUCTION FROM STFT MAGNITUDE WITH SMALL HOP SIZE"
